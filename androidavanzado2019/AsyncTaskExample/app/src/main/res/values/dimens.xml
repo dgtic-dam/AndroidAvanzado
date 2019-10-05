@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="year_size_font">16dp</dimen>
+    <dimen name="time_size_font">16dp</dimen>
+    <dimen name="title_size_font">18dp</dimen>
+</resources>

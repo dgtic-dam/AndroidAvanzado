@@ -1,0 +1,60 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cybertech.practiceviews"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml:5:5-25:19
+12        android:allowBackup="true"
+12-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] /Users/jaive.torres/.gradle/caches/transforms-2/files-2.1/5b454e4f1a30a31f78d2352c725b41cb/core-1.1.0/AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml:11:9-40
+21        <activity
+21-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml:12:9-14:68
+22            android:name="com.cybertech.practiceviews.DetailActivity"
+22-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml:12:19-49
+23            android:label=""
+23-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml:13:13-29
+24            android:theme="@style/AppTheme.NoActionBar" />
+24-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml:14:13-56
+25        <activity
+25-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml:15:9-24:20
+26            android:name="com.cybertech.practiceviews.MainActivity"
+26-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml:16:13-41
+27            android:label="@string/app_name"
+27-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml:17:13-45
+28            android:theme="@style/AppTheme.NoActionBar" >
+28-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml:18:13-56
+29            <intent-filter>
+29-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml:19:13-23:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml:20:17-69
+30-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml:20:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml:22:17-77
+32-->/Users/jaive.torres/Documents/Repositorios Personal/AndroidAvanzado2019/PracticeViews/app/src/main/AndroidManifest.xml:22:27-74
+33            </intent-filter>
+34        </activity>
+35    </application>
+36
+37</manifest>

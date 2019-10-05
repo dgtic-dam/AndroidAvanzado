@@ -1,0 +1,25 @@
+
+r
+Bapp/src/main/java/com/cybertech/webservicesexample/models/Movie.kt,e/b/eb262f3becf7b86accac223eb50d993bccfddf11
+s
+Capp/src/main/java/com/cybertech/webservicesexample/models/Rating.kt,7/9/79081be1c996f1e6980c439e567949eb3e6beddd
+Ö
+Uapp/src/main/java/com/cybertech/webservicesexample/listener/OnSetMovieListListener.kt,5/2/5287570729bf8a3bcafbf2b91d19cea80bb1d16c
+w
+Gapp/src/main/java/com/cybertech/webservicesexample/models/MoviesList.kt,c/3/c386cf430e76ad5a8673e5be30888e1c8739c309
+s
+Capp/src/main/java/com/cybertech/webservicesexample/models/Search.kt,e/c/ecf160c93b3a4345019d15611b3fa808c9d6ad52
+É
+Sapp/src/main/java/com/cybertech/webservicesexample/listener/OnMovieClickListener.kt,b/b/bbe43298a2015411975735917659674dc2df6513
+{
+Kapp/src/main/java/com/cybertech/webservicesexample/adapters/MovieAdapter.kt,2/9/2950dc3b385ae2ee4d4504d705ccd20ee977999e
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+Å
+Qapp/src/main/java/com/cybertech/webservicesexample/listener/OnSetMovieListener.kt,4/8/48ec8e68409df422deb9d01500bd5c3f318858dc
+r
+Bapp/src/main/java/com/cybertech/webservicesexample/MainActivity.kt,f/0/f00bcb05633cf59dd03620544217e716c44c693c
+y
+Iapp/src/main/java/com/cybertech/webservicesexample/services/WebService.kt,4/e/4e01fd336b9c0b888701bc574a1bc81cdc2b18e6
+t
+Dapp/src/main/java/com/cybertech/webservicesexample/DetailActivity.kt,8/6/86246950a25193d95fcad634e4ee1daee69ef42e
